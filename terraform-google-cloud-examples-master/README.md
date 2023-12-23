@@ -30,6 +30,3 @@ This is the list of examples:
 * [06-create-cloud-storage](code/06-create-cloud-storage) - Terraform Create Cloud Storage: Example of how deploy the creation of a Google Cloud Storage bucket on Google Cloud Platform (GCP).
 * [07-terraform-state](code/07-terraform-state) - Terraform State: Example of how to store the information about what infrastructure has been created on Google Cloud Platform (GCP).
 
-## License
-
-This code is released under the MIT License. See LICENSE file.
